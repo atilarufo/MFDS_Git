@@ -4,7 +4,7 @@ $ git config --global user.name "atilarufo"
 Alunos@LMC1-PC03 MINGW64 ~ (master)
 $ git config --global user.email "atila.rufo05@aluno.ifce.edu.br"
 
-Primeiros comandos feitos no Git Bash
+Primeiros comandos, de login, feitos no Git Bash
 
 C:\Users\Alunos>cd Documents
 
@@ -37,4 +37,4 @@ To https://github.com/atilarufo/MFDS_Git.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 
-Resto feito pelo Prompt de Comando do Windowa.
+Resto feito pelo Prompt de Comando do Windows.
